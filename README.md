@@ -36,13 +36,6 @@ src/
 ## 🚀 Live Demo
 Lihat hasil live di sini: [https://AdityaOctavian.github.io](https://AdityaOctavian.github.io)
 
-## 💻 Cara Menjalankan Lokal
-1.  Clone repository: `git clone https://github.com/AdityaOctavian/PORTOFOLIO2.git`
-2.  Masuk folder: `cd PORTOFOLIO2`
-3.  Install dependencies: `npm install`
-4.  Run local server: `npm run dev`
-5.  Buka di browser: `http://localhost:5173`
-
 ## 📬 Kontak
 - **Email:** viansorpelem123@gmail.com
 - **Instagram:** [@aditmoonstar](https://instagram.com/aditmoonstar)
