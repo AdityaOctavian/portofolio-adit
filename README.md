@@ -4,8 +4,8 @@ Website portofolio pribadi yang menampilkan biodata, keahlian teknis, dan inform
 
 ## 🛠️ Teknologi yang Digunakan
 *   **React.js** (Functional Components, Hooks)
-*   **HTML5** (Semantic Markup)
-*   **CSS3** (Flexbox, Grid, Responsive Design, Glassmorphism)
+*   **HTML** (Semantic Markup)
+*   **CSS** (Flexbox, Grid, Responsive Design, Glassmorphism)
 *   **Framer Motion** (Animasi & Transisi)
 *   **Lucide React** (Ikon)
 *   **Vite** (Build Tool & Dev Server)
@@ -35,13 +35,6 @@ src/
 
 ## 🚀 Live Demo
 Lihat hasil live di sini: [https://AdityaOctavian.github.io](https://AdityaOctavian.github.io)
-
-## 💻 Cara Menjalankan Lokal
-1.  Clone repository: `git clone https://github.com/AdityaOctavian/PORTOFOLIO2.git`
-2.  Masuk folder: `cd PORTOFOLIO2`
-3.  Install dependencies: `npm install`
-4.  Run local server: `npm run dev`
-5.  Buka di browser: `http://localhost:5173`
 
 ## 📬 Kontak
 - **Email:** viansorpelem123@gmail.com
