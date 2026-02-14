@@ -1,0 +1,49 @@
+# 🚀 Personal Portfolio — Aditya Octavian
+
+Website portofolio pribadi yang menampilkan biodata, keahlian teknis, dan informasi kontak saya. Dibuat dengan pendekatan komponen React untuk antarmuka yang dinamis, modern, dan menarik.
+
+## 🛠️ Teknologi yang Digunakan
+*   **React.js** (Functional Components, Hooks)
+*   **HTML5** (Semantic Markup)
+*   **CSS3** (Flexbox, Grid, Responsive Design, Glassmorphism)
+*   **Framer Motion** (Animasi & Transisi)
+*   **Lucide React** (Ikon)
+*   **Vite** (Build Tool & Dev Server)
+
+## ✨ Fitur
+- [x] **Responsive Design:** Tampilan optimal di desktop, tablet, dan ponsel.
+- [x] **Animated Background:** Efek glow gradient bergerak & grid pattern.
+- [x] **Code Card Visual:** Kartu kode interaktif yang menampilkan biodata dalam format JavaScript.
+- [x] **Skill Set:** Daftar teknologi yang dikuasai dengan animated progress bar.
+- [x] **Contact Form:** Formulir kontak untuk memudahkan kolaborasi.
+- [x] **Glassmorphism UI:** Efek kaca transparan pada card dan navigasi.
+- [x] **Smooth Scroll & Animations:** Animasi scroll reveal di setiap section.
+
+## 📁 Struktur Project
+```
+src/
+├── main.jsx              # Entry point React
+├── App.jsx               # Layout utama + animated background
+├── index.css             # Seluruh styling (Vanilla CSS)
+└── components/
+    ├── Navbar.jsx         # Navigasi sticky glassmorphic
+    ├── Hero.jsx           # Halaman utama + code card
+    ├── About.jsx          # Biodata & motivasi
+    ├── Skills.jsx         # Daftar keahlian (HTML, CSS, JS, React, C++, Java)
+    └── Contact.jsx        # Form kontak & link sosial media
+```
+
+## 🚀 Live Demo
+Lihat hasil live di sini: [https://AdityaOctavian.github.io](https://AdityaOctavian.github.io)
+
+## 💻 Cara Menjalankan Lokal
+1.  Clone repository: `git clone https://github.com/AdityaOctavian/PORTOFOLIO2.git`
+2.  Masuk folder: `cd PORTOFOLIO2`
+3.  Install dependencies: `npm install`
+4.  Run local server: `npm run dev`
+5.  Buka di browser: `http://localhost:5173`
+
+## 📬 Kontak
+- **Email:** viansorpelem123@gmail.com
+- **Instagram:** [@aditmoonstar](https://instagram.com/aditmoonstar)
+- **GitHub:** [AdityaOctavian](https://github.com/AdityaOctavian)
