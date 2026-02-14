@@ -4,8 +4,8 @@ Website portofolio pribadi yang menampilkan biodata, keahlian teknis, dan inform
 
 ## 🛠️ Teknologi yang Digunakan
 *   **React.js** (Functional Components, Hooks)
-*   **HTML5** (Semantic Markup)
-*   **CSS3** (Flexbox, Grid, Responsive Design, Glassmorphism)
+*   **HTML** (Semantic Markup)
+*   **CSS** (Flexbox, Grid, Responsive Design, Glassmorphism)
 *   **Framer Motion** (Animasi & Transisi)
 *   **Lucide React** (Ikon)
 *   **Vite** (Build Tool & Dev Server)
