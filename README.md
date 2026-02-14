@@ -34,7 +34,7 @@ src/
 ```
 
 ## 🚀 Live Demo
-Lihat hasil live di sini: [https://AdityaOctavian.github.io](https://AdityaOctavian.github.io)
+Lihat hasil live di sini: [[https://AdityaOctavian.github.io](https://AdityaOctavian.github.io)](https://adityaoctavian.github.io/portofolio-adit/)
 
 ## 📬 Kontak
 - **Email:** viansorpelem123@gmail.com
